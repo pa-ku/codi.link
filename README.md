@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://github.com/user-attachments/assets/58023e49-5326-4282-b0c3-a9b0e7f17a2f" width="100px" alt="Icono de codi.plus" >
+<img src="[https://github.com/user-attachments/assets/58023e49-5326-4282-b0c3-a9b0e7f17a2f](https://github.com/user-attachments/assets/6c377cbe-ab2e-4900-aa55-7d26fb0bf657)" width="100px" alt="Icono de codi.plus" >
 
 # Codi.Plus
 
