@@ -19,11 +19,11 @@ export const CodiEditorStyles = css`
   }
 
   slot:hover + img {
-   opacity: 0.2;
+   opacity: 1;
   }
   
    slot:focus-within + img {
-    opacity: 0.1;
+    opacity: 1;
   }
   
 
