@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="[https://github.com/user-attachments/assets/58023e49-5326-4282-b0c3-a9b0e7f17a2f](https://github.com/user-attachments/assets/6c377cbe-ab2e-4900-aa55-7d26fb0bf657)" width="100px" alt="Icono de codi.plus" >
+<img src="https://github.com/user-attachments/assets/990282dc-1e12-4fee-a577-62f512ae5774" width="100px" alt="Icono de codi.plus" >
 
 # Codi.Plus
 
@@ -10,7 +10,9 @@ codi.plus es un fork de [codilink](https://github.com/midudev/codi.link) con nue
 
 <br>
 
-![Sin título](https://github.com/user-attachments/assets/5af9f775-318b-4451-87ba-8f3f3bc2c27b)
+![image](https://github.com/user-attachments/assets/f11d4841-8d03-4760-91fa-ed6afc28c610)
+
+
 
 
 
