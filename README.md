@@ -6,16 +6,13 @@
 
 </div>
 
-codi.plus es un fork de [codilink](https://github.com/midudev/codi.link) con nuevas features
+codi.plus es un fork de [codilink](https://github.com/midudev/codi.link) con nuevas features 
+<br>
+Link:  <a href="https://codiplus.vercel.app/">CodiPlus<a/>
 
 <br>
 
 ![image](https://github.com/user-attachments/assets/f11d4841-8d03-4760-91fa-ed6afc28c610)
-
-
-
-
-
 
 ## Features
 - Consola redimensionable permitiendo tener un layout como el de runJs
